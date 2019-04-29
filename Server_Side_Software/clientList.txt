@@ -1,0 +1,10 @@
+NAME, ROOM NUMBER, MAC Address,
+Alex Foyer,265,DC:4F:22:0A:A2:04
+Jason Reichard,039,MAC
+Tom Janik,778,MAC
+Patrick Hara,405,MAC
+Kelsey Conley,129,MAC
+Jon D'Souza,017,MAC
+Cris Ababei,250,MAC
+Chris Foyer,122,MAC
+Rachel Anne Foyer,134,MAC
